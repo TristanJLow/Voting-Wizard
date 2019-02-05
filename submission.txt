@@ -1,0 +1,6 @@
+Tristan Low 
+CAB302 
+n9217126
+
+prefElection class is not code complete, as well as the classes in voteCollection relating to prefElection, simpleElection is complete however.
+Testing is not completed and many auto-generated tests have not been implemented.
